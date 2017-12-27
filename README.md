@@ -1,5 +1,5 @@
 # Concentration
-Concentration game with halloween theme. Made by following the Stanford CS193p class Developing iOS 11 apps with Swift.
+Concentration game made by following the Stanford CS193p Developing iOS 11 apps with Swift.
 
 Supported OS
 ---
